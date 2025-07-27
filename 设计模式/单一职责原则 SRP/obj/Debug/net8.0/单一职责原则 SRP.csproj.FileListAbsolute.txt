@@ -1,0 +1,14 @@
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\bin\Debug\net8.0\单一职责原则 SRP.exe
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\bin\Debug\net8.0\单一职责原则 SRP.deps.json
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\bin\Debug\net8.0\单一职责原则 SRP.runtimeconfig.json
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\bin\Debug\net8.0\单一职责原则 SRP.dll
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\bin\Debug\net8.0\单一职责原则 SRP.pdb
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.AssemblyInfoInputs.cache
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.AssemblyInfo.cs
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.csproj.CoreCompileInputs.cache
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.dll
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\refint\单一职责原则 SRP.dll
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.pdb
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\单一职责原则 SRP.genruntimeconfig.cache
+E:\Code\Study\设计模式Demo\CShrap\设计模式\单一职责原则 SRP\obj\Debug\net8.0\ref\单一职责原则 SRP.dll
