@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("单一职责原则 SRP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aff4d3b8ad90655627494b93d0d0f673a921c745")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6477b696b9380238dad30f3224512e1699436a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("单一职责原则 SRP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("单一职责原则 SRP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
